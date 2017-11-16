@@ -1,0 +1,2 @@
+# Bitmap Kata in Elm
+
